@@ -1,0 +1,26 @@
+# Pastas de compilação e temporárias do Visual Studio
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+.vs/
+
+# Arquivos de usuário e cache do MSVC
+*.user
+*.suo
+*.db
+*.opensdf
+*.sdf
+*.vcxproj.user
+
+# Arquivos de log e compilação intermediários
+*.log
+*.tlog
+*.idb
+*.pdb
+*.obj
+*.pch
+*.exe
+*.ilk
+*.aps
